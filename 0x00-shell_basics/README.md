@@ -1,2 +1,1 @@
-#!/bin/bash
-describes what each scripts is doing
+your first line should begin with #!/bin/bash
